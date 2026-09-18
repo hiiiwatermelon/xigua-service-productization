@@ -1,0 +1,4 @@
+interface:
+  display_name: "西瓜 · 服务产品化"
+  short_description: "把专业服务中的知识与经验，转成客户愿意参与的互动产品入口"
+  default_prompt: "使用 $xigua-service-productization，把我的专业服务资料转成客户愿意参与的互动产品入口方案。"
